@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/project-react-js-social/static/js/main.4be8d701.chunk.js",
+    "main.js.map": "/project-react-js-social/static/js/main.4be8d701.chunk.js.map",
+    "runtime~main.js": "/project-react-js-social/static/js/runtime~main.88c6b2b4.js",
+    "runtime~main.js.map": "/project-react-js-social/static/js/runtime~main.88c6b2b4.js.map",
+    "static/js/2.5a4a925b.chunk.js": "/project-react-js-social/static/js/2.5a4a925b.chunk.js",
+    "static/js/2.5a4a925b.chunk.js.map": "/project-react-js-social/static/js/2.5a4a925b.chunk.js.map",
+    "index.html": "/project-react-js-social/index.html",
+    "precache-manifest.92d53f1010c7f01a4bf5714c33b81b72.js": "/project-react-js-social/precache-manifest.92d53f1010c7f01a4bf5714c33b81b72.js",
+    "service-worker.js": "/project-react-js-social/service-worker.js"
+  }
+}
